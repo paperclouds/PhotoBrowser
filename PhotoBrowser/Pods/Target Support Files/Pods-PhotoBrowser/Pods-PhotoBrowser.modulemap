@@ -1,0 +1,6 @@
+module Pods_PhotoBrowser {
+  umbrella header "Pods-PhotoBrowser-umbrella.h"
+
+  export *
+  module * { export * }
+}
